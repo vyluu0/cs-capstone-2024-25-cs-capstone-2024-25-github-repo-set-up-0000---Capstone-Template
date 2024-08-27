@@ -7,6 +7,7 @@ For the Fall Semester, these are:
 4) Preliminary Design Report
 
 For the Spring Semester, these are (still TBC):
+
 5) Expo Abstract
 6) Expo Poster
 7) Final Design Report
