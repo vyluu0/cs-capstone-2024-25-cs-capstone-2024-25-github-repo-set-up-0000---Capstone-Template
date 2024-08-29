@@ -1,10 +1,6 @@
 # *CS 25-XXX Project Name*
-## **Sponsor:**
-
 **Students' Names:**
-
 **Mentor:**
-
 **Faculty Advisor:**
 
 **1) Accomplishments this week**
