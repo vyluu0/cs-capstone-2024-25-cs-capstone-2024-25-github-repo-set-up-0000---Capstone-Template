@@ -14,7 +14,7 @@ a better understanding of the problems you encountered during the development of
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
 | scr | Source code - create as many subdirectories as needed |
 
-**Note:** commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commit ahead (these are the updates you make to this repository).
+**Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
 - *Mentor's Name*  - *Company Affliation* - Mentor
