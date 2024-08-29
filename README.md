@@ -4,7 +4,7 @@
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
 Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
 follow in your footsteps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the development of this project. I can change the template and push this into my forked repository.
+a better understanding of the problems you encountered during the development of this project. 
 
 | Folder | Description |
 |---|---|
@@ -13,6 +13,7 @@ a better understanding of the problems you encountered during the development of
 | Project Deliverables | Folder that contains final pdf versions of all Fall and Spring Major Deliverables |
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
 | scr | Source code - create as many subdirectories as needed |
+*Note:* you can automatically sync the commits behind this fork, meaning that changes made in the template are pushed into your repo. Please do not discard commit ahead (these are the updates you make to this repository).
 
 ## Project Team
 - *Mentor's Name*  - *Company Affliation* - Mentor
