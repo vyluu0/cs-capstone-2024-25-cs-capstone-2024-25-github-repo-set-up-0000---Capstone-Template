@@ -1,7 +1,7 @@
 # Status Reports Folder
 Weekly status reports go into this folder
 
-Project Plan Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Template/blob/master/Status%20Reports/Project%20Plan.md
+Project Plan Template: https://github.com/VCU-CS-Capstone/cs-capstone-2024-25-cs-capstone-2024-25-github-repo-set-up-0000---Capstone-Template/blob/master/Status%20Reports/Project%20Plan.md
 
 Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Template/blob/master/Status%20Reports/Status%20Reports.dotx
 
