@@ -10,7 +10,7 @@ a better understanding of the problems you encountered during the development of
 |---|---|
 | Documentation |  all documentation the project team has created to describe the architecture, design, installation, and configuration of the project |
 | Notes and Research | Relevant helpful information to understand the tools and techniques used in the project |
-| Project Deliverables | Folder that contains final pdf versions of all Fall and Spring Major Deliverables
+| Project Deliverables | Folder that contains final pdf versions of all Fall and Spring Major Deliverables |
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
 | scr | Source code - create as many subdirectories as needed |
 
